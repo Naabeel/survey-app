@@ -16,3 +16,6 @@ npm install
 node index
 
 Author - Nabeel Ahmed
+
+challenges : Active issue with deployment of the application due to automatic nesting of the repo files on the local machine.
+              working on the issue and learning more about Git to control the untracked files in the submodules tha got automatically creted due to a hidden .git file.
